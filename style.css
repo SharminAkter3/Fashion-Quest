@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navBg{
+    background-color: #1A187A;
+    color: white;
+}
+
+.category-logo{
+    font-size: x-large;
+    margin-bottom:10px;
+}
+
+.category-card {
+    padding: 15px;
+    /* margin: 20px; */
+    text-align: center;
+    justify-content: center;
+}
+
+.banner-img{
+   /* margin-left: 900px; */
+   padding: 20px;
+}
